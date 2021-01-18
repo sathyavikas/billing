@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1602240271 source:c:\miniproject\miniproject\maincode.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1602240246 c:\miniproject\miniproject\functions.h
+
+1602240204 source:c:\miniproject\miniproject\functions.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1604886113 source:c:\ltts\miniproject\functions.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1604886112 c:\ltts\miniproject\functions.h
+
+1604886113 source:c:\ltts\miniproject\maincode.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
